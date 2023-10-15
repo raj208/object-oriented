@@ -8,3 +8,8 @@ public class tut6 {
     }
 
 }
+
+
+zpublic staic tut6
+
+int
